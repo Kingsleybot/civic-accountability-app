@@ -1,23 +1,12 @@
 [
-  {
-    "id": 1,
-    "name": "Jane Mensah",
-    "role": "Member of Parliament",
-    "constituency": "Kumasi Central",
-    "party": "Example Party A"
-  },
-  {
-    "id": 2,
-    "name": "Kwame Owusu",
-    "role": "District Chief Executive",
-    "constituency": "Ashanti Region",
-    "party": "Example Party B"
-  },
-  {
-    "id": 3,
-    "name": "Ama Darko",
-    "role": "Minister of Education",
-    "constituency": "N/A - National Role",
-    "party": "Example Party A"
-  }
+  { "id": 1, "name": "Kingsley Nyarko", "role": "Member of Parliament", "constituency": "Kwadaso", "party": "NPP" },
+  { "id": 2, "name": "Akwasi Konadu", "role": "Member of Parliament", "constituency": "Manhyia North", "party": "NPP" },
+  { "id": 3, "name": "Nana Agyei Baffour Awuah", "role": "Member of Parliament", "constituency": "Manhyia South", "party": "NPP" },
+  { "id": 4, "name": "Francis Asenso-Boakye", "role": "Member of Parliament", "constituency": "Bantama", "party": "NPP" },
+  { "id": 5, "name": "Stephen Amoah", "role": "Member of Parliament", "constituency": "Nhyiaeso", "party": "NPP" },
+  { "id": 6, "name": "Mubarak Mohammed Muntaka", "role": "Member of Parliament", "constituency": "Asawase", "party": "NDC" },
+  { "id": 7, "name": "Michael Kwasi Aidoo", "role": "Member of Parliament", "constituency": "Oforikrom", "party": "NPP" },
+  { "id": 8, "name": "Vincent Ekow Assafuah", "role": "Member of Parliament", "constituency": "Old Tafo", "party": "NPP" },
+  { "id": 9, "name": "Kofi Obiri Yeboah", "role": "Member of Parliament", "constituency": "Subin", "party": "NPP" },
+  { "id": 10, "name": "Patricia Appiagyei", "role": "Member of Parliament", "constituency": "Asokwa", "party": "NPP" }
 ]
