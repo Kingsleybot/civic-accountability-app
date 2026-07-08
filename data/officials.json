@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Mensah",
+    "role": "Member of Parliament",
+    "constituency": "Kumasi Central",
+    "party": "Example Party A"
+  },
+  {
+    "id": 2,
+    "name": "Kwame Owusu",
+    "role": "District Chief Executive",
+    "constituency": "Ashanti Region",
+    "party": "Example Party B"
+  },
+  {
+    "id": 3,
+    "name": "Ama Darko",
+    "role": "Minister of Education",
+    "constituency": "N/A - National Role",
+    "party": "Example Party A"
+  }
+]
