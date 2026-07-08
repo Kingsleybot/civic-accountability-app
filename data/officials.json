@@ -1,12 +1,24 @@
-[
-  { "id": 1, "name": "Kingsley Nyarko", "role": "Member of Parliament", "constituency": "Kwadaso", "party": "NPP" },
-  { "id": 2, "name": "Akwasi Konadu", "role": "Member of Parliament", "constituency": "Manhyia North", "party": "NPP" },
-  { "id": 3, "name": "Nana Agyei Baffour Awuah", "role": "Member of Parliament", "constituency": "Manhyia South", "party": "NPP" },
-  { "id": 4, "name": "Francis Asenso-Boakye", "role": "Member of Parliament", "constituency": "Bantama", "party": "NPP" },
-  { "id": 5, "name": "Stephen Amoah", "role": "Member of Parliament", "constituency": "Nhyiaeso", "party": "NPP" },
-  { "id": 6, "name": "Mubarak Mohammed Muntaka", "role": "Member of Parliament", "constituency": "Asawase", "party": "NDC" },
-  { "id": 7, "name": "Michael Kwasi Aidoo", "role": "Member of Parliament", "constituency": "Oforikrom", "party": "NPP" },
-  { "id": 8, "name": "Vincent Ekow Assafuah", "role": "Member of Parliament", "constituency": "Old Tafo", "party": "NPP" },
-  { "id": 9, "name": "Kofi Obiri Yeboah", "role": "Member of Parliament", "constituency": "Subin", "party": "NPP" },
-  { "id": 10, "name": "Patricia Appiagyei", "role": "Member of Parliament", "constituency": "Asokwa", "party": "NPP" }
+[:\civic-accountability-app>
+  { "id": 1, "name": "John Dramani Mahama", "role": "President of Ghana", "constituency": "National", "party": "NDC" },
+  { "id": 2, "name": "Jane Naana Opoku-Agyemang", "role": "Vice President of Ghana", "constituency": "National", "party": "NDC" },
+
+  { "id": 3, "name": "Cassiel Ato Forson", "role": "Minister of Finance", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 4, "name": "Mubarak Mohammed Muntaka", "role": "Minister of Interior", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 5, "name": "Kwabena Mintah Akandoh", "role": "Minister of Health", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 6, "name": "Edward Omane Boamah", "role": "Minister of Defence", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 7, "name": "Dominic Akuritinga Ayine", "role": "Attorney General & Minister of Justice", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 8, "name": "John Abdulai Jinapor", "role": "Minister of Energy", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 9, "name": "Haruna Iddrisu", "role": "Minister of Education", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 10, "name": "Elizabeth Ofosu-Adjare", "role": "Minister of Trade, Agribusiness and Industry", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 11, "name": "Emmanuel Armah Kofi Buah", "role": "Minister of Lands and Natural Resources", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 12, "name": "Samuel Okudzeto Ablakwa", "role": "Minister of Foreign Affairs", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 13, "name": "Eric Opoku", "role": "Minister of Food and Agriculture", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 14, "name": "Sam Nartey George", "role": "Minister of Communication, Digital Technology & Innovations", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 15, "name": "Kwame Governs Agbodza", "role": "Minister of Roads and Highways", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 16, "name": "Ibrahim Murtala Muhammed", "role": "Minister of Environment, Science, Technology & Innovation", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 17, "name": "Kenneth Gilbert Adjei", "role": "Minister of Works, Housing & Water Resources", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 18, "name": "Ahmed Ibrahim", "role": "Minister of Local Government, Chieftaincy & Religious Affairs", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 19, "name": "Agnes Naa Momo Lartey", "role": "Minister of Gender, Children & Social Protection", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 20, "name": "Joseph Bukari", "role": "Minister of Transport", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 21, "name": "Abdul-Rashid Pelpuo", "role": "Minister of Employment & Labour Relations", "constituency": "N/A - National Role", "party": "NDC" }
 ]
