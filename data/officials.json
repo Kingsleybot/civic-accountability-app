@@ -15,7 +15,7 @@
   { "id": 13, "name": "Eric Opoku", "role": "Minister of Food and Agriculture", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 14, "name": "Sam Nartey George", "role": "Minister of Communication, Digital Technology & Innovations", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 15, "name": "Kwame Governs Agbodza", "role": "Minister of Roads and Highways", "constituency": "N/A - National Role", "party": "NDC" },
-  { "id": 16, "name": "Ibrahim Murtala Muhammed", "role": "Minister of Environment, Science, Technology & Innovation", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 16, "name": "Emmanuel Armah Kofi Buah", "role": "Minister of Environment, Science, Technology & Innovation", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 17, "name": "Kenneth Gilbert Adjei", "role": "Minister of Works, Housing & Water Resources", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 18, "name": "Ahmed Ibrahim", "role": "Minister of Local Government, Chieftaincy & Religious Affairs", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 19, "name": "Agnes Naa Momo Lartey", "role": "Minister of Gender, Children & Social Protection", "constituency": "N/A - National Role", "party": "NDC" },
@@ -30,5 +30,62 @@
   { "id": 107, "name": "Michael Kwasi Aidoo", "role": "Member of Parliament", "constituency": "Oforikrom", "party": "NPP" },
   { "id": 108, "name": "Vincent Ekow Assafuah", "role": "Member of Parliament", "constituency": "Old Tafo", "party": "NPP" },
   { "id": 109, "name": "Kofi Obiri Yeboah", "role": "Member of Parliament", "constituency": "Subin", "party": "NPP" },
-  { "id": 110, "name": "Patricia Appiagyei", "role": "Member of Parliament", "constituency": "Asokwa", "party": "NPP" }
+  { "id": 110, "name": "Patricia Appiagyei", "role": "Member of Parliament", "constituency": "Asokwa", "party": "NPP" },
+
+  { "id": 201, "name": "Richard Ofori-Agyeman Boadi", "role": "Chief Executive", "constituency": "Kumasi Metropolitan", "party": "NDC" },
+
+  { "id": 202, "name": "Charles Kofi Ogbeh", "role": "Chief Executive", "constituency": "Adansi North District", "party": "NDC" },
+
+  { "id": 203, "name": "Oheneba Kobena Andoh", "role": "Chief Executive", "constituency": "Adansi South District", "party": "NDC" },
+
+  { "id": 204, "name": "Pearl Patricia Ankrah", "role": "Chief Executive", "constituency": "Afigya Kwabre South District", "party": "NDC" },
+
+  { "id": 205, "name": "Akwesi Adusei", "role": "Chief Executive", "constituency": "Ahafo Ano North Municipal", "party": "NPP" },
+
+  { "id": 206, "name": "Abubakar Sedik", "role": "Chief Executive", "constituency": "Ahafo Ano South West District", "party": "NDC" },
+
+  { "id": 207, "name": "Emmanuel Obeng Agyemang", "role": "Chief Executive", "constituency": "Amansie Central District", "party": "NDC" },
+
+  { "id": 208, "name": "Manu Prince Morris", "role": "Chief Executive", "constituency": "Amansie West District", "party": "NDC" },
+
+  { "id": 209, "name": "Ebenezer Ekow Aidoo", "role": "Chief Executive", "constituency": "Asante Akim Central Municipal", "party": "NDC" },
+
+  { "id": 210, "name": "Sarah Amoakoaa", "role": "Chief Executive", "constituency": "Asante Akim North District", "party": "NDC" },
+  { "id": 111, "name": "Joseph Azumah", "role": "Member of Parliament", "constituency": "Adansi-Akrofuom", "party": "NDC" },
+  { "id": 112, "name": "Godwin Animli Dzogbazi-Dorani", "role": "Member of Parliament", "constituency": "Adansi-Asokwa", "party": "NDC" },
+  { "id": 113, "name": "Collins Adomako-Mensah", "role": "Member of Parliament", "constituency": "Afigya Kwabre North", "party": "NPP" },
+  { "id": 114, "name": "Damata Ama Appianimaa Salam", "role": "Member of Parliament", "constituency": "Afigya Kwabre South", "party": "NPP" },
+  { "id": 115, "name": "Mavis Nkansah Boadu", "role": "Member of Parliament", "constituency": "Afigya Sekyere East", "party": "NPP" },
+  { "id": 116, "name": "Eric Nana Agyemang-Prempeh", "role": "Member of Parliament", "constituency": "Ahafo Ano North", "party": "NPP" },
+  { "id": 117, "name": "Yakubu Mohammed", "role": "Member of Parliament", "constituency": "Ahafo Ano South East", "party": "NDC" },
+  { "id": 118, "name": "Elvis Osei Mensah Dapaah", "role": "Member of Parliament", "constituency": "Ahafo Ano South West", "party": "NPP" },
+  { "id": 119, "name": "Kwame Anyimadu-Antwi", "role": "Member of Parliament", "constituency": "Asante-Akim Central", "party": "NPP" },
+  { "id": 120, "name": "Ohene Kwame Frimpong", "role": "Member of Parliament", "constituency": "Asante-Akim North", "party": "IND" },
+  { "id": 121, "name": "Kwaku Asante-Boateng", "role": "Member of Parliament", "constituency": "Asante-Akim South", "party": "NPP" },
+  { "id": 122, "name": "Kofi Amankwa-Manu", "role": "Member of Parliament", "constituency": "Atwima-Kwanwoma", "party": "NPP" },
+  { "id": 123, "name": "Seth Osei-Akoto", "role": "Member of Parliament", "constituency": "Atwima-Mponua", "party": "NPP" },
+  { "id": 124, "name": "Frank Yeboah", "role": "Member of Parliament", "constituency": "Atwima-Nwabiagya North", "party": "NPP" },
+  { "id": 125, "name": "Shirley Kyei", "role": "Member of Parliament", "constituency": "Atwima-Nwabiagya South", "party": "NPP" },
+  { "id": 126, "name": "Ralph Poku-Adusei", "role": "Member of Parliament", "constituency": "Bekwai", "party": "NPP" },
+  { "id": 127, "name": "Nana Asafo-Adjei Ayeh", "role": "Member of Parliament", "constituency": "Bosome-Freho", "party": "NPP" },
+  { "id": 128, "name": "Yaw Osei Adutwum", "role": "Member of Parliament", "constituency": "Bosomtwe", "party": "NPP" },
+  { "id": 129, "name": "Nana Ayew Afriyie", "role": "Member of Parliament", "constituency": "Effiduase-Asokore", "party": "NPP" },
+  { "id": 130, "name": "Kwabena Boateng", "role": "Member of Parliament", "constituency": "Ejisu", "party": "NPP" },
+  { "id": 131, "name": "Muhammad Bawah Braimah", "role": "Member of Parliament", "constituency": "Ejura-Sekyedumase", "party": "NDC" },
+  { "id": 132, "name": "Andrew Asiamah Amoako", "role": "Member of Parliament (Second Deputy Speaker)", "constituency": "Fomena (Adansi North)", "party": "NPP" },
+  { "id": 133, "name": "Francis Kwabena B Owusu-Akyaw", "role": "Member of Parliament", "constituency": "Juaben", "party": "NPP" },
+  { "id": 134, "name": "Ernest Yaw Anim", "role": "Member of Parliament", "constituency": "Kumawu", "party": "NPP" },
+  { "id": 135, "name": "Onyina-Acheampong Akwasi Gyamfi", "role": "Member of Parliament", "constituency": "Kwabre East", "party": "NPP" },
+  { "id": 136, "name": "Kwaku Ampratwum-Sarpong", "role": "Member of Parliament", "constituency": "Mampong", "party": "NPP" },
+  { "id": 137, "name": "Frimpong Yaw Addo", "role": "Member of Parliament", "constituency": "Manso Edubia", "party": "NPP" },
+  { "id": 138, "name": "Tweneboa Kodua Fokuo", "role": "Member of Parliament", "constituency": "Manso Nkwanta", "party": "NPP" },
+  { "id": 139, "name": "Adams Abdul Salam", "role": "Member of Parliament", "constituency": "New Edubease", "party": "NDC" },
+  { "id": 140, "name": "Adelaide Ntim", "role": "Member of Parliament", "constituency": "Nsuta-Kwamang-Beposo", "party": "NPP" },
+  { "id": 141, "name": "Patrick Boakye-Yiadom", "role": "Member of Parliament", "constituency": "Obuasi East", "party": "NPP" },
+  { "id": 142, "name": "Kwaku Agyemang Kwarteng", "role": "Member of Parliament", "constituency": "Obuasi West", "party": "NPP" },
+  { "id": 143, "name": "Anthony Mmieh", "role": "Member of Parliament", "constituency": "Odotobri", "party": "NPP" },
+  { "id": 144, "name": "Fred Kyei Asamoah", "role": "Member of Parliament", "constituency": "Offinso North", "party": "NPP" },
+  { "id": 145, "name": "Isaac Yaw Opoku", "role": "Member of Parliament", "constituency": "Offinso South", "party": "NPP" },
+  { "id": 146, "name": "Nasira Afrah Gyekye", "role": "Member of Parliament", "constituency": "Sekyere Afram Plains", "party": "NDC" },
+  { "id": 147, "name": "John Darko", "role": "Member of Parliament", "constituency": "Suame", "party": "NPP" }
 ]
