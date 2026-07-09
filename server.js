@@ -15,11 +15,15 @@ app.get('/api/status', (req, res) => {
 });
 
 app.get('/api/officials', (req, res) => {
+  console.log('Officials route hit');
   const filePath = path.join(__dirname, 'data', 'officials.json');
+  console.log('Reading file from:', filePath);
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
+      console.log('Read error:', err.message);
       return res.status(500).json({ error: 'Could not load officials data' });
     }
+    console.log('File read successfully, length:', data.length);
     res.json(JSON.parse(data));
   });
 });
