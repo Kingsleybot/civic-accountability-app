@@ -20,5 +20,15 @@
   { "id": 18, "name": "Ahmed Ibrahim", "role": "Minister of Local Government, Chieftaincy & Religious Affairs", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 19, "name": "Agnes Naa Momo Lartey", "role": "Minister of Gender, Children & Social Protection", "constituency": "N/A - National Role", "party": "NDC" },
   { "id": 20, "name": "Joseph Bukari", "role": "Minister of Transport", "constituency": "N/A - National Role", "party": "NDC" },
-  { "id": 21, "name": "Abdul-Rashid Pelpuo", "role": "Minister of Employment & Labour Relations", "constituency": "N/A - National Role", "party": "NDC" }
+  { "id": 21, "name": "Abdul-Rashid Pelpuo", "role": "Minister of Employment & Labour Relations", "constituency": "N/A - National Role", "party": "NDC" },
+  { "id": 101, "name": "Kingsley Nyarko", "role": "Member of Parliament", "constituency": "Kwadaso", "party": "NPP" },
+  { "id": 102, "name": "Akwasi Konadu", "role": "Member of Parliament", "constituency": "Manhyia North", "party": "NPP" },
+  { "id": 103, "name": "Nana Agyei Baffour Awuah", "role": "Member of Parliament", "constituency": "Manhyia South", "party": "NPP" },
+  { "id": 104, "name": "Francis Asenso-Boakye", "role": "Member of Parliament", "constituency": "Bantama", "party": "NPP" },
+  { "id": 105, "name": "Stephen Amoah", "role": "Member of Parliament", "constituency": "Nhyiaeso", "party": "NPP" },
+  { "id": 106, "name": "Mubarak Mohammed Muntaka", "role": "Member of Parliament", "constituency": "Asawase", "party": "NDC" },
+  { "id": 107, "name": "Michael Kwasi Aidoo", "role": "Member of Parliament", "constituency": "Oforikrom", "party": "NPP" },
+  { "id": 108, "name": "Vincent Ekow Assafuah", "role": "Member of Parliament", "constituency": "Old Tafo", "party": "NPP" },
+  { "id": 109, "name": "Kofi Obiri Yeboah", "role": "Member of Parliament", "constituency": "Subin", "party": "NPP" },
+  { "id": 110, "name": "Patricia Appiagyei", "role": "Member of Parliament", "constituency": "Asokwa", "party": "NPP" }
 ]
