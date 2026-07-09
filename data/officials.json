@@ -86,6 +86,21 @@
   { "id": 143, "name": "Anthony Mmieh", "role": "Member of Parliament", "constituency": "Odotobri", "party": "NPP" },
   { "id": 144, "name": "Fred Kyei Asamoah", "role": "Member of Parliament", "constituency": "Offinso North", "party": "NPP" },
   { "id": 145, "name": "Isaac Yaw Opoku", "role": "Member of Parliament", "constituency": "Offinso South", "party": "NPP" },
-  { "id": 146, "name": "Nasira Afrah Gyekye", "role": "Member of Parliament", "constituency": "Sekyere Afram Plains", "party": "NDC" },
-  { "id": 147, "name": "John Darko", "role": "Member of Parliament", "constituency": "Suame", "party": "NPP" }
+  { "id": 146, "name": "Nasira Afrah Gyekye", "role": "Member of Parliament", "constituency": "Sekyere Afram Plains", "party": "NDC" },{ "id": 147, "name": "John Darko", "role": "Member of Parliament", "constituency": "Suame", "party": "NPP" },
+  { "id": 301, "name": "Linda Ocloo", "role": "Regional Minister", "constituency": "Greater Accra Region", "party": "NDC" },
+  { "id": 302, "name": "Dr. Frank Amoakohene", "role": "Regional Minister", "constituency": "Ashanti Region", "party": "NDC" },
+  { "id": 303, "name": "Eduamoah Ekow Panyin Okyere", "role": "Regional Minister", "constituency": "Central Region", "party": "NDC" },
+  { "id": 304, "name": "Joseph Nelson", "role": "Regional Minister", "constituency": "Western Region", "party": "NDC" },
+  { "id": 305, "name": "Wilbert Petty Brentum", "role": "Regional Minister", "constituency": "Western North Region", "party": "NDC" },
+  { "id": 306, "name": "Rita Akosua Adjei Awatey", "role": "Regional Minister", "constituency": "Eastern Region", "party": "NDC" },
+  { "id": 307, "name": "James Gunu", "role": "Regional Minister", "constituency": "Volta Region", "party": "NDC" },
+  { "id": 308, "name": "John Kwadwo Gyapong", "role": "Regional Minister", "constituency": "Oti Region", "party": "NDC" },
+  { "id": 309, "name": "Joseph Addae Akwaboa", "role": "Regional Minister", "constituency": "Bono Region", "party": "NDC" },
+  { "id": 310, "name": "Francis Owusu Antwi", "role": "Regional Minister", "constituency": "Bono East Region", "party": "NDC" },
+  { "id": 311, "name": "Charity Gardiner", "role": "Regional Minister", "constituency": "Ahafo Region", "party": "NDC" },
+  { "id": 312, "name": "Ali Adolf John", "role": "Regional Minister", "constituency": "Northern Region", "party": "NDC" },
+  { "id": 313, "name": "Ibrahim Tia", "role": "Regional Minister", "constituency": "North East Region", "party": "NDC" },
+  { "id": 314, "name": "Salisu Bi-Awuribe", "role": "Regional Minister", "constituency": "Savannah Region", "party": "NDC" },
+  { "id": 315, "name": "Akamugri Donatus Atanga", "role": "Regional Minister", "constituency": "Upper East Region", "party": "NDC" },
+  { "id": 316, "name": "Puozuing Charles Lwanga", "role": "Regional Minister", "constituency": "Upper West Region", "party": "NDC" }
 ]
