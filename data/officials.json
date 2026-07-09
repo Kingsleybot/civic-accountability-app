@@ -1,4 +1,4 @@
-[:\civic-accountability-app>
+[
   { "id": 1, "name": "John Dramani Mahama", "role": "President of Ghana", "constituency": "National", "party": "NDC" },
   { "id": 2, "name": "Jane Naana Opoku-Agyemang", "role": "Vice President of Ghana", "constituency": "National", "party": "NDC" },
 
